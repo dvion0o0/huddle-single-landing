@@ -134,7 +134,7 @@ background-attachment: fixed;
     }
 
     .hero h2{
-        max-width: 17rem;
+        max-width: 19rem;
         font-size: 25px;
         font-weight: 700;
     }
@@ -142,11 +142,11 @@ background-attachment: fixed;
     .hero p{
         max-width: 25rem;
         font-size: 18px;
-        padding-left: 4rem;
+        padding-left: 3rem;
     }
 
     .btn{
-margin-left: 5rem;
+    margin-left: 4rem;
     }
 
 
